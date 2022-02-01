@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "jogo.h": "c",
+        "leitura.h": "c",
+        "stdio.h": "c",
+        "tree.h": "c",
+        "operations.h": "c",
+        "tree_.h": "c"
+    }
+}
